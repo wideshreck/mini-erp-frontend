@@ -26,7 +26,7 @@ const eslintConfig = [
     },
   },
   {
-    ignores: ["public/"],
+    ignores: ["public/", "commitlint.config.ts"],
   },
 ];
 

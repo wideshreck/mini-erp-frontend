@@ -15,11 +15,18 @@ dist/
 
 # debug
 npm-debug.log*
+pnpm-debug.log*
 
 # typescript
 next-env.d.ts
 *.tsbuildinfo
 
-# misc
+# IDE
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+
+# OS
 .DS_Store
 Thumbs.db
