@@ -1,0 +1,2 @@
+# Tüm text dosyalarını LF ile normalize et
+* text=auto eol=lf
